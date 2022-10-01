@@ -18,4 +18,7 @@ Autenticacion con Firebase y Javascript
   - Nos vuelve a solicitar un nombre podemos usar el mismo o uno nuevo.
   - Firebase tambien nos ofrece el servicio de hosting para subir la aplicacion, usaremos etiquetas de script tomamos todo el codigo lo pegamos en un nuevo archivo llamado **firebaje.js**.
   
-  
+## Framework Boostrap
+  - Añadiremos un framework de css para poder agilisar el desarrollo del interfaz **[Boostrap](https://getbootstrap.com/)**.
+  - Utilizamos la opcion de [CDN links](https://getbootstrap.com/docs/5.2/getting-started/introduction/#cdn-links) dentro de nuestros archivos.
+  - Para nuestro menu de navegacion usaremos **[Navbar](https://getbootstrap.com/docs/5.2/components/navbar/)** copiando el codigo en nuestro ***index.html***.
